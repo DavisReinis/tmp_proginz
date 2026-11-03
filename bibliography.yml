@@ -1,0 +1,22 @@
+typst:
+  type: Web
+  title: Typst
+  author:
+    - Mädje
+    - Laurenz
+    - Haug
+    - Martin
+    - Typst Projekta Izstrādātāji
+  url: {value: "https://typst.app/", date: 2025-01-01}
+
+LVS68:
+  type: Web
+  title: LVS 68:1996 “Programmatūras prasību specifikācijas ceļvedis”
+  author: SIA „Latvijas standarts” (LVS); (1996)
+  url: {value: "https://www.lvs.lv/products/85", date: 2026-09-21}
+
+LVS72:
+  type: Web
+  title: LVS 72:1996 “Ieteicamā prakse programmatūras projektējuma aprakstīšanai”
+  author: SIA „Latvijas standarts” (LVS); (1996)
+  url: {value: "https://www.lvs.lv/products/89", date: 2026-09-21}

@@ -1,0 +1,905 @@
+<mxfile host="app.diagrams.net" agent="Roamie DPD1">
+  <diagram id="_yGKYrNZ2OkGfT1PanVF" name="Page-3">
+    <mxGraphModel dx="2583" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="coGOsB3efatbvaU2ToNH-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#111111;strokeWidth=1.7;container=0;" value="" vertex="1">
+          <mxGeometry height="1578.01" width="681.4" x="2942.56" y="1451.4800122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2;fontSize=19;fontFamily=Arial;" value="Vieslietotājs" vertex="1">
+          <mxGeometry height="144.3" width="491.4" x="3037.56" y="1521.4800122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2;fontSize=18;fontFamily=Arial;" value="Parasts reģistrēts&lt;br&gt;lietotājs" vertex="1">
+          <mxGeometry height="144.3" width="491.4" x="3037.56" y="1836.1700122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2;fontSize=18;fontFamily=Arial;" value="Verificēts reģistrēts&lt;br&gt;lietotājs" vertex="1">
+          <mxGeometry height="144.3" width="491.4" x="3037.56" y="2150.8500122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2;fontSize=19;fontFamily=Arial;" value="Virslietotājs" vertex="1">
+          <mxGeometry height="144.3" width="491.4" x="3037.56" y="2483.0200122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2;fontSize=19;fontFamily=Arial;" value="Administrators" vertex="1">
+          <mxGeometry height="144.3" width="491.4" x="3037.56" y="2815.190012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2.1;fontSize=20;fontFamily=Arial;" value="Informācijas&lt;br&gt;modulis" vertex="1">
+          <mxGeometry height="231.25" width="436.8" x="1746.27" y="1300.5600122070311" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2.1;fontSize=20;fontFamily=Arial;" value="Lietotāju&lt;br&gt;modulis" vertex="1">
+          <mxGeometry height="249.75" width="455" x="2760.92" y="941.6600122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2.1;fontSize=20;fontFamily=Arial;" value="Saderības&lt;br&gt;modulis" vertex="1">
+          <mxGeometry height="231.25" width="455" x="4226.93" y="959.6500122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2.1;fontSize=20;fontFamily=Arial;" value="Sociālo plūsmu&lt;br&gt;modulis" vertex="1">
+          <mxGeometry height="231.25" width="482.3" x="1776.76" y="1973.6300122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2.1;fontSize=19;fontFamily=Arial;" value="Ziņojumapmaiņas&lt;br&gt;modulis" vertex="1">
+          <mxGeometry height="231.25" width="491.4" x="4249.68" y="1798.8100122070311" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2.1;fontSize=19;fontFamily=Arial;" value="Interaktīvās kartes&lt;br&gt;modulis" vertex="1">
+          <mxGeometry height="231.25" width="482.3" x="4250.139999999999" y="2471.8900122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2.1;fontSize=20;fontFamily=Arial;" value="Notikumu&lt;br&gt;modulis" vertex="1">
+          <mxGeometry height="231.25" width="455" x="1786.3" y="3022.5800122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2.1;fontSize=20;fontFamily=Arial;" value="Moderācijas&lt;br&gt;modulis" vertex="1">
+          <mxGeometry height="231.25" width="473.2" x="4193.26" y="3083.7700122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2.1;fontSize=20;fontFamily=Arial;" value="Administrēšanas&lt;br&gt;modulis" vertex="1">
+          <mxGeometry height="231.25" width="473.2" x="2760.01" y="3512.090012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-16" parent="1" style="ellipse;dashed=1;dashPattern=5 4;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2;fontSize=18;fontFamily=Arial;" value="Google/Apple&lt;br&gt;Sign-In API" vertex="1">
+          <mxGeometry height="194.25" width="382.2" x="2183.0699999999997" y="506.12001220703127" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-17" parent="1" style="ellipse;dashed=1;dashPattern=5 4;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2;fontSize=19;fontFamily=Arial;" value="Sumsub API" vertex="1">
+          <mxGeometry height="194.25" width="382.2" x="3403.38" y="506.12001220703127" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-18" parent="1" style="ellipse;dashed=1;dashPattern=5 4;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2;fontSize=18;fontFamily=Arial;" value="Firebase Cloud&lt;br&gt;Messaging" vertex="1">
+          <mxGeometry height="203.5" width="400.4" x="5171.51" y="1729.6500122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-19" parent="1" style="ellipse;dashed=1;dashPattern=5 4;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#111111;strokeWidth=2;fontSize=19;fontFamily=Arial;" value="Google Maps&lt;br&gt;API" vertex="1">
+          <mxGeometry height="203.5" width="400.4" x="5179.7" y="2359.0200122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-20" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#111111;strokeWidth=2;fontSize=17;fontFamily=Arial;top=1;bottom=1;left=0;right=0;" value="Informācija un statistika" vertex="1">
+          <mxGeometry height="81.4" width="546" x="1585.2" y="928.8000122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-21" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#111111;strokeWidth=2;fontSize=17;fontFamily=Arial;top=1;bottom=1;left=0;right=0;" value="Lietotāju un profilu dati" vertex="1">
+          <mxGeometry height="81.4" width="582.4" x="2762.74" y="687.5400122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-22" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#111111;strokeWidth=2;fontSize=17;fontFamily=Arial;top=1;bottom=1;left=0;right=0;" value="MBTI un saderības dati" vertex="1">
+          <mxGeometry height="81.4" width="582.4" x="4195.99" y="701.5300122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-23" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#111111;strokeWidth=2;fontSize=17;fontFamily=Arial;top=1;bottom=1;left=0;right=0;" value="Ierakstu un komentāru dati" vertex="1">
+          <mxGeometry height="81.4" width="618.8" x="1204.8200000000002" y="2397.3300122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-24" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#111111;strokeWidth=2;fontSize=17;fontFamily=Arial;top=1;bottom=1;left=0;right=0;" value="Sarunu un ziņu dati" vertex="1">
+          <mxGeometry height="81.4" width="600.6" x="4923.99" y="2065.1600122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-25" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#111111;strokeWidth=2;fontSize=17;fontFamily=Arial;top=1;bottom=1;left=0;right=0;" value="Lokāciju un stāstu dati" vertex="1">
+          <mxGeometry height="81.4" width="582.4" x="4982.23" y="2773.2100122070315" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-26" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#111111;strokeWidth=2;fontSize=17;fontFamily=Arial;top=1;bottom=1;left=0;right=0;" value="Tikšanos un grupu dati" vertex="1">
+          <mxGeometry height="81.4" width="591.5" x="1501.02" y="3446.280012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-27" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#111111;strokeWidth=2;fontSize=17;fontFamily=Arial;top=1;bottom=1;left=0;right=0;" value="Pārkāpumu un moderācijas dati" vertex="1">
+          <mxGeometry height="81.4" width="700.7" x="4804.32" y="3455.030012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-28" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#111111;strokeWidth=2;fontSize=17;fontFamily=Arial;top=1;bottom=1;left=0;right=0;" value="Virslietotāju un darbību dati" vertex="1">
+          <mxGeometry height="81.4" width="673.4" x="2725.42" y="3927.0600122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-29" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-2" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.0000;exitY=0.2944;exitPerimeter=0;entryX=0.9789;entryY=0.3556;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2709.96" y="1563.9600122070312" />
+              <mxPoint x="2709.96" y="1382.7900122070312" />
+            </Array>
+            <mxPoint x="3037.56" y="1563.9600122070312" as="sourcePoint" />
+            <mxPoint x="2173.87" y="1382.7900122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-30" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-7" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.9789;exitY=0.6436;exitPerimeter=0;entryX=0.0000;entryY=0.7046;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2685.45" y="1449.3900122070313" />
+              <mxPoint x="2685.45" y="1623.1600122070313" />
+            </Array>
+            <mxPoint x="2173.87" y="1449.3900122070313" as="sourcePoint" />
+            <mxPoint x="3037.56" y="1623.1600122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-31" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-2" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.2333;exitY=-0.0005;exitPerimeter=0;entryX=0.3520;entryY=0.9774;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3152.22" y="1306.9100122070313" />
+              <mxPoint x="2921.08" y="1306.9100122070313" />
+            </Array>
+            <mxPoint x="3152.22" y="1521.4100122070313" as="sourcePoint" />
+            <mxPoint x="2921.08" y="1185.7600122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-32" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-8" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.6600;exitY=0.9737;exitPerimeter=0;entryX=0.8074;entryY=-0.0005;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-2">
+          <mxGeometry relative="1" x="0.0098" as="geometry">
+            <Array as="points">
+              <mxPoint x="3061.22" y="1271.9500122070312" />
+              <mxPoint x="3201.36" y="1271.9500122070312" />
+              <mxPoint x="3200" y="1490" />
+              <mxPoint x="3434.32" y="1490" />
+            </Array>
+            <mxPoint x="3061.22" y="1184.8400122070314" as="sourcePoint" />
+            <mxPoint x="3434.32" y="1521.4100122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-33" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-3" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=-0.002;exitY=0.166;exitPerimeter=0;exitDx=0;exitDy=0;entryX=0.176;entryY=0.883;entryDx=0;entryDy=0;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-8">
+          <mxGeometry relative="1" x="-0.0073" as="geometry">
+            <Array as="points">
+              <mxPoint x="2910" y="1860.12" />
+              <mxPoint x="2840" y="1860.12" />
+              <mxPoint x="2841" y="1188.0100122070312" />
+            </Array>
+            <mxPoint x="3037.56" y="1878.6300122070313" as="sourcePoint" />
+            <mxPoint x="2840" y="1161.44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-34" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-8" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.466;exitY=0.993;exitPerimeter=0;exitDx=0;exitDy=0;" target="coGOsB3efatbvaU2ToNH-3">
+          <mxGeometry relative="1" x="0.0333" as="geometry">
+            <Array as="points">
+              <mxPoint x="2972.04" y="1320.9300122070313" />
+              <mxPoint x="2972.04" y="1910" />
+            </Array>
+            <mxPoint x="2970.22" y="1190.9500122070312" as="sourcePoint" />
+            <mxPoint x="3037.56" y="1937.8400122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-35" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-4" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=1.0000;exitY=0.3200;exitPerimeter=0;entryX=0.0094;entryY=0.4044;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3807.42" y="2197.030012207031" />
+              <mxPoint x="3807.42" y="1053.1700122070313" />
+            </Array>
+            <mxPoint x="3528.96" y="2197.030012207031" as="sourcePoint" />
+            <mxPoint x="4231.2" y="1053.1700122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-36" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-9" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.0146;exitY=0.6204;exitPerimeter=0;entryX=1.0000;entryY=0.6789;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3864.81" y="1103.1200122070313" />
+              <mxPoint x="3864.81" y="2248.820012207031" />
+            </Array>
+            <mxPoint x="4233.57" y="1103.1200122070313" as="sourcePoint" />
+            <mxPoint x="3528.96" y="2248.820012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-37" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-3" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.0000;exitY=0.3200;exitPerimeter=0;entryX=0.9891;entryY=0.3964;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2759.1" y="1882.3400122070314" />
+              <mxPoint x="2759.1" y="2065.300012207031" />
+            </Array>
+            <mxPoint x="3037.56" y="1882.3400122070314" as="sourcePoint" />
+            <mxPoint x="2253.8199999999997" y="2065.300012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-38" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-10" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.9854;exitY=0.6204;exitPerimeter=0;entryX=0.0000;entryY=0.6789;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2718.21" y="2117.1000122070313" />
+              <mxPoint x="2718.21" y="1934.1300122070313" />
+            </Array>
+            <mxPoint x="2252" y="2117.1000122070313" as="sourcePoint" />
+            <mxPoint x="3037.56" y="1934.1300122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-39" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-4" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.0000;exitY=0.2687;exitPerimeter=0;entryX=0.8906;entryY=0.8124;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2808.24" y="2189.6300122070315" />
+              <mxPoint x="2808.24" y="2161.5000122070314" />
+            </Array>
+            <mxPoint x="3037.56" y="2189.6300122070315" as="sourcePoint" />
+            <mxPoint x="2206.3199999999997" y="2161.5000122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-40" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-3" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=1.0000;exitY=0.3072;exitPerimeter=0;entryX=0.021;entryY=0.35;entryPerimeter=0;entryDx=0;entryDy=0;" target="coGOsB3efatbvaU2ToNH-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3692.76" y="1880.5000122070312" />
+            </Array>
+            <mxPoint x="3528.96" y="1880.5000122070312" as="sourcePoint" />
+            <mxPoint x="4273.7" y="1864.5800122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-41" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-11" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.0011;exitY=0.4684;exitPerimeter=0;entryX=1.0000;entryY=0.6918;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3701.01" y="1907.1300122070313" />
+              <mxPoint x="3701.01" y="1936.0000122070312" />
+            </Array>
+            <mxPoint x="4250.23" y="1907.1300122070313" as="sourcePoint" />
+            <mxPoint x="3528.96" y="1936.0000122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-42" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-4" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=1.0000;exitY=0.0892;exitPerimeter=0;entryX=0.0570;entryY=0.7324;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3791.04" y="2163.7200122070312" />
+              <mxPoint x="3791.04" y="1968.1800122070313" />
+            </Array>
+            <mxPoint x="3528.96" y="2163.7200122070312" as="sourcePoint" />
+            <mxPoint x="4277.71" y="1968.1800122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-43" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-4" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=1.0000;exitY=0.8584;exitPerimeter=0;entryX=0.0386;entryY=0.3076;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3971.22" y="2274.7200122070312" />
+              <mxPoint x="3971.22" y="2543.0200122070314" />
+            </Array>
+            <mxPoint x="3528.96" y="2274.7200122070312" as="sourcePoint" />
+            <mxPoint x="4268.74" y="2543.0200122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-44" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-12" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.0190;exitY=0.6356;exitPerimeter=0;entryX=0.919;entryY=1.02;entryPerimeter=0;entryDx=0;entryDy=0;" target="coGOsB3efatbvaU2ToNH-4">
+          <mxGeometry relative="1" x="-0.0368" as="geometry">
+            <Array as="points">
+              <mxPoint x="3905.7" y="2618.8700122070313" />
+              <mxPoint x="3905.7" y="2340" />
+              <mxPoint x="3710" y="2340" />
+              <mxPoint x="3490" y="2340" />
+            </Array>
+            <mxPoint x="4259.280000000001" y="2618.8700122070313" as="sourcePoint" />
+            <mxPoint x="3528.96" y="2298.780012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-45" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-4" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.0000;exitY=0.9611;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="coGOsB3efatbvaU2ToNH-13">
+          <mxGeometry relative="1" x="-0.0139" as="geometry">
+            <Array as="points">
+              <mxPoint x="2660.82" y="2289.530012207031" />
+              <mxPoint x="2660.82" y="3138.21" />
+            </Array>
+            <mxPoint x="3037.56" y="2289.530012207031" as="sourcePoint" />
+            <mxPoint x="2231.75" y="3105.0000122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-46" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-13" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.975;exitY=0.335;exitPerimeter=0;entryX=0.0000;entryY=0.5893;entryPerimeter=0;exitDx=0;exitDy=0;" target="coGOsB3efatbvaU2ToNH-4">
+          <mxGeometry relative="1" x="-0.0414" as="geometry">
+            <Array as="points">
+              <mxPoint x="2619.93" y="3100" />
+              <mxPoint x="2619.93" y="2347.130012207031" />
+              <mxPoint x="2619.93" y="2235.89" />
+              <mxPoint x="2775.48" y="2235.880012207031" />
+            </Array>
+            <mxPoint x="2231.75" y="3171.6000122070313" as="sourcePoint" />
+            <mxPoint x="3037.56" y="2235.880012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-47" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-4" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=1.0000;exitY=0.4738;exitPerimeter=0;entryX=0.0262;entryY=0.3396;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3995.85" y="2219.2200122070312" />
+              <mxPoint x="3995.85" y="3162.300012207031" />
+            </Array>
+            <mxPoint x="3528.96" y="2219.2200122070312" as="sourcePoint" />
+            <mxPoint x="4205.639999999999" y="3162.300012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-48" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.0212;exitY=0.6436;exitPerimeter=0;entryX=1.0000;entryY=0.9226;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3738.8" y="3238.6200122070313" />
+              <mxPoint x="3738.8" y="2290.0000122070314" />
+            </Array>
+            <mxPoint x="4203.291840000001" y="3238.622512" as="sourcePoint" />
+            <mxPoint x="3528.9600000000005" y="2290.0011919999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-49" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=1.0000;exitY=0.2687;exitPerimeter=0;entryX=0.0023;entryY=0.4516;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3830" y="2521.8" />
+              <mxPoint x="3830" y="3188.2" />
+            </Array>
+            <mxPoint x="3528.96" y="2521.800012207031" as="sourcePoint" />
+            <mxPoint x="4194.35" y="3188.2000122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-50" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-14" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.0615;exitY=0.7396;exitPerimeter=0;entryX=1.0000;entryY=0.7559;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3684.5" y="3254.800012207031" />
+              <mxPoint x="3684.5" y="2592.1000122070313" />
+            </Array>
+            <mxPoint x="4222.38" y="3254.800012207031" as="sourcePoint" />
+            <mxPoint x="3528.96" y="2592.1000122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-51" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-6" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=1.0000;exitY=0.2816;exitPerimeter=0;entryX=0.0704;entryY=0.2436;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3807.42" y="2855.8100122070314" />
+              <mxPoint x="3807.42" y="3140.1000122070313" />
+            </Array>
+            <mxPoint x="3528.96" y="2855.8100122070314" as="sourcePoint" />
+            <mxPoint x="4226.57" y="3140.1000122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-52" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-14" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.1227;exitY=0.8276;exitPerimeter=0;entryX=1.0000;entryY=0.7303;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3771.38" y="3275.150012207031" />
+              <mxPoint x="3771.38" y="2920.5600122070314" />
+            </Array>
+            <mxPoint x="4251.32" y="3275.150012207031" as="sourcePoint" />
+            <mxPoint x="3528.96" y="2920.5600122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-53" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-6" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.2889;exitY=0.9995;exitPerimeter=0;entryX=0.4998;entryY=-0.0004;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3179.52" y="3238.7300122070315" />
+              <mxPoint x="2996.51" y="3238.7300122070315" />
+            </Array>
+            <mxPoint x="3179.52" y="2959.420012207031" as="sourcePoint" />
+            <mxPoint x="2996.51" y="3512.0000122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-54" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-15" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.7267;exitY=0.0540;exitPerimeter=0;entryX=0.534;entryY=1.004;entryPerimeter=0;entryDx=0;entryDy=0;" target="coGOsB3efatbvaU2ToNH-6">
+          <mxGeometry relative="1" x="0.1338" as="geometry">
+            <Array as="points">
+              <mxPoint x="3103.89" y="3347.090012207031" />
+              <mxPoint x="3299.64" y="3347.090012207031" />
+              <mxPoint x="3299.64" y="3020" />
+              <mxPoint x="3300" y="2990" />
+              <mxPoint x="3300" y="2970" />
+            </Array>
+            <mxPoint x="3103.89" y="3524.5800122070314" as="sourcePoint" />
+            <mxPoint x="3392.46" y="2959.420012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-55" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-16" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.9731;exitY=0.3377;exitPerimeter=0;entryX=0.0272;entryY=0.3367;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2611.68" y="571.7100122070312" />
+              <mxPoint x="2611.68" y="1025.7400122070312" />
+            </Array>
+            <mxPoint x="2554.98" y="571.7100122070312" as="sourcePoint" />
+            <mxPoint x="2773.3" y="1025.7400122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-56" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-8" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;entryX=0.782;entryY=0.937;entryPerimeter=0;entryDx=0;entryDy=0;exitX=0.177;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" target="coGOsB3efatbvaU2ToNH-16">
+          <mxGeometry relative="1" x="0.0021" as="geometry">
+            <Array as="points">
+              <mxPoint x="2842.3" y="920" />
+              <mxPoint x="2480" y="920" />
+            </Array>
+            <mxPoint x="2879.22" y="956.9200122070313" as="sourcePoint" />
+            <mxPoint x="2417.75" y="697.6900122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-57" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-8" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.9672;exitY=0.3218;exitPerimeter=0;entryX=0.043;entryY=0.699;entryDx=0;entryDy=0;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-17">
+          <mxGeometry relative="1" x="0.0484" as="geometry">
+            <Array as="points">
+              <mxPoint x="3420" y="1020" />
+              <mxPoint x="3420" y="680" />
+            </Array>
+            <mxPoint x="3201" y="1022.0400122070313" as="sourcePoint" />
+            <mxPoint x="3403.38" y="603.1500122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-58" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-17" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.201;exitY=0.902;exitPerimeter=0;entryX=0.997;entryY=0.555;entryPerimeter=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" target="coGOsB3efatbvaU2ToNH-8">
+          <mxGeometry relative="1" x="-0.0714" as="geometry">
+            <Array as="points">
+              <mxPoint x="3480" y="720" />
+              <mxPoint x="3480" y="1080.27" />
+            </Array>
+            <mxPoint x="3421.03" y="643.8600122070313" as="sourcePoint" />
+            <mxPoint x="3202.27" y="1108.9900122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-59" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-11" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.9937;exitY=0.4204;exitPerimeter=0;entryX=0.0066;entryY=0.4182;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4970.4" y="1896.0300122070312" />
+              <mxPoint x="4970.4" y="1814.7500122070312" />
+            </Array>
+            <mxPoint x="4737.99" y="1896.0300122070312" as="sourcePoint" />
+            <mxPoint x="5174.14" y="1814.7500122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-60" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-12" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.9710;exitY=0.3316;exitPerimeter=0;entryX=0.0123;entryY=0.3909;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4868.84" y="2548.570012207031" />
+              <mxPoint x="4868.84" y="2438.5600122070314" />
+            </Array>
+            <mxPoint x="4718.46" y="2548.570012207031" as="sourcePoint" />
+            <mxPoint x="5184.61" y="2438.5600122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-61" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-19" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.0309;exitY=0.6727;exitPerimeter=0;entryX=0.9763;entryY=0.6516;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4986.78" y="2495.920012207031" />
+              <mxPoint x="4986.78" y="2622.570012207031" />
+            </Array>
+            <mxPoint x="5192.08" y="2495.920012207031" as="sourcePoint" />
+            <mxPoint x="4721.01" y="2622.570012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-62" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-7" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.3002;exitY=0.0420;exitPerimeter=0;entryX=0.3000;entryY=0.9996;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1877.4" y="1112.8100122070314" />
+              <mxPoint x="1749" y="1112.8100122070314" />
+            </Array>
+            <mxPoint x="1877.4" y="1310.2700122070312" as="sourcePoint" />
+            <mxPoint x="1749" y="1010.1700122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-63" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-20" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.759;exitY=0.977;entryX=0.6960;entryY=0.0396;entryPerimeter=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="coGOsB3efatbvaU2ToNH-7">
+          <mxGeometry relative="1" x="0.1247" as="geometry">
+            <Array as="points">
+              <mxPoint x="2000" y="1158.32" />
+              <mxPoint x="2050.3" y="1158.3200122070311" />
+            </Array>
+            <mxPoint x="2040.2" y="1010.1700122070313" as="sourcePoint" />
+            <mxPoint x="2050.3" y="1309.7100122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-64" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-8" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.2840;exitY=0.0485;exitPerimeter=0;entryX=0.219;entryY=0.992;entryPerimeter=0;entryDx=0;entryDy=0;" target="coGOsB3efatbvaU2ToNH-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2890" y="920" />
+            </Array>
+            <mxPoint x="2890.14" y="953.7700122070313" as="sourcePoint" />
+            <mxPoint x="2871.94" y="768.8700122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-65" edge="1" parent="1" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;entryX=0.7880;entryY=0.0907;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-8">
+          <mxGeometry relative="1" x="-0.0119" as="geometry">
+            <Array as="points">
+              <mxPoint x="3120" y="830" />
+              <mxPoint x="3119.46" y="899.5500122070313" />
+            </Array>
+            <mxPoint x="3119.46" y="770" as="sourcePoint" />
+            <mxPoint x="3119.46" y="964.3200122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-66" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-21" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.8281;exitY=1.0000;exitPerimeter=0;entryX=0.0214;entryY=0.3564;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3245.04" y="795.9000122070313" />
+              <mxPoint x="4089.15" y="795.9000122070313" />
+              <mxPoint x="4089.15" y="1042.0700122070311" />
+            </Array>
+            <mxPoint x="3245.04" y="768.9400122070313" as="sourcePoint" />
+            <mxPoint x="4236.66" y="1042.0700122070311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-67" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-21" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.1562;exitY=1.0000;exitPerimeter=0;entryX=0.9969;entryY=0.4436;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2853.74" y="819.4900122070312" />
+              <mxPoint x="2411.84" y="819.4900122070312" />
+              <mxPoint x="2411.84" y="1403.1400122070313" />
+            </Array>
+            <mxPoint x="2853.74" y="768.9400122070313" as="sourcePoint" />
+            <mxPoint x="2181.7" y="1403.1400122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-68" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-9" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.6202;exitY=0.0148;exitPerimeter=0;entryX=0.5470;entryY=0.9996;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4514.58" y="963.0700122070313" />
+            </Array>
+            <mxPoint x="4509.12" y="963.0700122070313" as="sourcePoint" />
+            <mxPoint x="4514.58" y="782.9000122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-69" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-22" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.2033;exitY=0.9996;exitPerimeter=0;entryX=0.2802;entryY=0.0508;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4314.38" y="925.7700122070313" />
+              <mxPoint x="4354.42" y="925.7700122070313" />
+            </Array>
+            <mxPoint x="4314.38" y="782.9000122070313" as="sourcePoint" />
+            <mxPoint x="4354.42" y="971.4000122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-70" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-10" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.0065;exitY=0.4204;exitPerimeter=0;entryX=0.526;entryY=-0.021;entryPerimeter=0;entryDx=0;entryDy=0;" target="coGOsB3efatbvaU2ToNH-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1530" y="2070" />
+            </Array>
+            <mxPoint x="1779.89" y="2070.8500122070313" as="sourcePoint" />
+            <mxPoint x="1678.02" y="2397.300012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-71" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-23" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.915;exitY=-0.044;exitPerimeter=0;entryX=0.0529;entryY=0.7244;entryPerimeter=0;exitDx=0;exitDy=0;" target="coGOsB3efatbvaU2ToNH-10">
+          <mxGeometry relative="1" x="0.1956" as="geometry">
+            <Array as="points">
+              <mxPoint x="1771.02" y="2310" />
+              <mxPoint x="1771.02" y="2270" />
+              <mxPoint x="1770" y="2140" />
+            </Array>
+            <mxPoint x="1805.42" y="2478.7000122070312" as="sourcePoint" />
+            <mxPoint x="1802.28" y="2141.150012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-72" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-11" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.9548;exitY=0.7084;exitPerimeter=0;entryX=0.3295;entryY=0.0000;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-24">
+          <mxGeometry relative="1" x="-0.0014" as="geometry">
+            <Array as="points">
+              <mxPoint x="4720" y="2015.51" />
+              <mxPoint x="4790.22" y="2015.5100122070312" />
+              <mxPoint x="5121.91" y="2015.5100122070312" />
+            </Array>
+            <mxPoint x="4718.88" y="1962.6300122070313" as="sourcePoint" />
+            <mxPoint x="5121.91" y="2065.1600122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-73" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-24" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;entryX=0.9789;entryY=0.6444;entryPerimeter=0;exitX=0.426;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;" target="coGOsB3efatbvaU2ToNH-11">
+          <mxGeometry relative="1" x="0.1872" as="geometry">
+            <Array as="points">
+              <mxPoint x="5180" y="2030" />
+              <mxPoint x="5180" y="1950" />
+            </Array>
+            <mxPoint x="5180" y="2060" as="sourcePoint" />
+            <mxPoint x="4730.71" y="1947.8300122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-74" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-12" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.5000;exitY=1.0000;exitPerimeter=0;entryX=0.1914;entryY=0.0000;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4491.29" y="2734.240012207031" />
+              <mxPoint x="5093.7" y="2734.240012207031" />
+            </Array>
+            <mxPoint x="4491.29" y="2703.1400122070313" as="sourcePoint" />
+            <mxPoint x="5093.7" y="2773.2100122070315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-75" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-25" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.5508;exitY=0.0000;exitPerimeter=0;entryX=0.9473;entryY=0.7236;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5303" y="2688.4500122070312" />
+              <mxPoint x="4868.84" y="2688.4500122070312" />
+              <mxPoint x="4868.84" y="2639.2200122070312" />
+            </Array>
+            <mxPoint x="5303" y="2773.2100122070315" as="sourcePoint" />
+            <mxPoint x="4707" y="2639.2200122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-76" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-13" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.412;exitY=0.989;exitPerimeter=0;entryX=0.7999;entryY=-0.0004;entryPerimeter=0;exitDx=0;exitDy=0;" target="coGOsB3efatbvaU2ToNH-26">
+          <mxGeometry relative="1" x="-0.1343" as="geometry">
+            <Array as="points">
+              <mxPoint x="1974.16" y="3290" />
+            </Array>
+            <mxPoint x="1950.01" y="3249.300012207031" as="sourcePoint" />
+            <mxPoint x="1974.18" y="3446.2500122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-77" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-26" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.2153;exitY=-0.0004;exitPerimeter=0;entryX=0.0018;entryY=0.5404;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-13">
+          <mxGeometry relative="1" x="0.0012" as="geometry">
+            <Array as="points">
+              <mxPoint x="1628.38" y="3160.070012207031" />
+              <mxPoint x="1628.38" y="3147.55" />
+              <mxPoint x="1645.26" y="3147.550012207031" />
+            </Array>
+            <mxPoint x="1628.38" y="3446.2500122070314" as="sourcePoint" />
+            <mxPoint x="1787.12" y="3147.550012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-78" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-14" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.9873;exitY=0.6116;exitPerimeter=0;entryX=0.392;entryY=0.015;entryPerimeter=0;entryDx=0;entryDy=0;" target="coGOsB3efatbvaU2ToNH-27">
+          <mxGeometry relative="1" x="-0.2284" as="geometry">
+            <Array as="points">
+              <mxPoint x="4863.86" y="3225.2000122070312" />
+              <mxPoint x="5080" y="3225.2" />
+            </Array>
+            <mxPoint x="4660.45" y="3225.2000122070312" as="sourcePoint" />
+            <mxPoint x="4831.58" y="3454.990012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-79" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-27" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.259;exitY=0.013;exitPerimeter=0;entryX=0.9246;entryY=0.7636;entryPerimeter=0;exitDx=0;exitDy=0;" target="coGOsB3efatbvaU2ToNH-14">
+          <mxGeometry relative="1" x="-0.0292" as="geometry">
+            <Array as="points">
+              <mxPoint x="4986.78" y="3380" />
+              <mxPoint x="4986.78" y="3317.4100122070313" />
+              <mxPoint x="4986.78" y="3260.3500122070313" />
+            </Array>
+            <mxPoint x="4968.08" y="3454.990012207031" as="sourcePoint" />
+            <mxPoint x="4630.79" y="3260.3500122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-80" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-15" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.3267;exitY=0.9684;exitPerimeter=0;entryX=0.2837;entryY=-0.0005;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2916.43" y="3736.0400122070314" />
+            </Array>
+            <mxPoint x="2914.61" y="3736.0400122070314" as="sourcePoint" />
+            <mxPoint x="2916.43" y="3927.0200122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-81" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-28" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.6755;exitY=-0.0005;exitPerimeter=0;entryX=0.802;entryY=0.904;entryPerimeter=0;entryDx=0;entryDy=0;" target="coGOsB3efatbvaU2ToNH-15">
+          <mxGeometry relative="1" x="0.3078" as="geometry">
+            <Array as="points">
+              <mxPoint x="3180.33" y="3736.990012207031" />
+              <mxPoint x="3140" y="3736.99" />
+            </Array>
+            <mxPoint x="3180.33" y="3927.0200122070314" as="sourcePoint" />
+            <mxPoint x="3051.11" y="3740.2900122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-82" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-23" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.2059;exitY=0.9996;exitPerimeter=0;entryX=0.009;entryY=0.586;entryPerimeter=0;entryDx=0;entryDy=0;" target="coGOsB3efatbvaU2ToNH-14">
+          <mxGeometry relative="1" x="0.0087" as="geometry">
+            <Array as="points">
+              <mxPoint x="1332.22" y="3378.590012207031" />
+              <mxPoint x="4085.88" y="3378.590012207031" />
+              <mxPoint x="4085.88" y="3220" />
+              <mxPoint x="4130" y="3220" />
+              <mxPoint x="4160" y="3219.75" />
+            </Array>
+            <mxPoint x="1332.22" y="2478.7000122070312" as="sourcePoint" />
+            <mxPoint x="4195.26" y="3184.5000122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-83" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-26" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.8366;exitY=0.0000;exitPerimeter=0;entryX=0.0016;entryY=0.4596;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1995.84" y="3396.0800122070314" />
+              <mxPoint x="2300.46" y="3396.0800122070314" />
+              <mxPoint x="2300.46" y="3431.0400122070314" />
+              <mxPoint x="4044.86" y="3431.0400122070314" />
+              <mxPoint x="4044.86" y="2578.170012207031" />
+            </Array>
+            <mxPoint x="1995.84" y="3446.280012207031" as="sourcePoint" />
+            <mxPoint x="4250.91" y="2578.170012207031" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-84" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-27" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.123;exitY=1.013;exitPerimeter=0;entryX=0.9967;entryY=0.5556;entryPerimeter=0;exitDx=0;exitDy=0;" target="coGOsB3efatbvaU2ToNH-15">
+          <mxGeometry relative="1" x="0.0362" as="geometry">
+            <Array as="points">
+              <mxPoint x="4890" y="3600" />
+              <mxPoint x="4890" y="3833.14" />
+              <mxPoint x="4790" y="3833.14" />
+              <mxPoint x="4691.94" y="3833.1400122070313" />
+              <mxPoint x="3586.22" y="3833.1400122070313" />
+              <mxPoint x="3586.22" y="3640.5800122070314" />
+            </Array>
+            <mxPoint x="4804.28" y="3528.990012207031" as="sourcePoint" />
+            <mxPoint x="3231.66" y="3640.5800122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-85" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-14" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.1373;exitY=0.1556;exitPerimeter=0;entryX=0.9480;entryY=0.7218;entryPerimeter=0;" target="coGOsB3efatbvaU2ToNH-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4085.88" y="3119.7500122070314" />
+              <mxPoint x="4085.88" y="1315.6600122070313" />
+              <mxPoint x="3512.58" y="1315.6600122070313" />
+              <mxPoint x="3512.58" y="1121.9400122070313" />
+            </Array>
+            <mxPoint x="4258.23" y="3119.7500122070314" as="sourcePoint" />
+            <mxPoint x="3192.26" y="1121.9400122070313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-86" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-13" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.986;exitY=0.627;exitPerimeter=0;entryX=0.0859;entryY=0.7804;entryPerimeter=0;exitDx=0;exitDy=0;" target="coGOsB3efatbvaU2ToNH-11">
+          <mxGeometry relative="1" x="-0.0065" as="geometry">
+            <Array as="points">
+              <mxPoint x="2530" y="3167.57" />
+              <mxPoint x="2529.7799999999997" y="3301.7200122070312" />
+              <mxPoint x="3722.24" y="3301.7200122070312" />
+              <mxPoint x="3722.24" y="2032.4400122070313" />
+              <mxPoint x="4195.55" y="2032.4400122070313" />
+              <mxPoint x="4291.89" y="2032.44" />
+            </Array>
+            <mxPoint x="2241.21" y="3136.4500122070312" as="sourcePoint" />
+            <mxPoint x="4291.9" y="1979.2800122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-87" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-10" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#000000;strokeWidth=1.8;exitX=0.6963;exitY=0.0404;exitPerimeter=0;entryX=0.082;entryY=0.221;entryPerimeter=0;entryDx=0;entryDy=0;" target="coGOsB3efatbvaU2ToNH-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2112.59" y="1836.6600122070313" />
+              <mxPoint x="2693.58" y="1836.6600122070313" />
+              <mxPoint x="2693.58" y="1742.1800122070313" />
+              <mxPoint x="4036.74" y="1742.1800122070313" />
+              <mxPoint x="4036.74" y="1849.92" />
+            </Array>
+            <mxPoint x="2112.59" y="1982.9800122070312" as="sourcePoint" />
+            <mxPoint x="4262.6" y="1877.5300122070312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-88" edge="1" parent="1" source="coGOsB3efatbvaU2ToNH-9" style="edgeStyle=none;rounded=0;html=1;endArrow=classic;endFill=1;strokeColor=#111111;strokeWidth=1.8;exitX=0.7202;exitY=0.9492;exitPerimeter=0;entryX=0.938;entryY=0.252;entryPerimeter=0;entryDx=0;entryDy=0;" target="coGOsB3efatbvaU2ToNH-11">
+          <mxGeometry relative="1" x="0.0156" as="geometry">
+            <Array as="points">
+              <mxPoint x="4554.62" y="1385.5900122070314" />
+              <mxPoint x="4786.94" y="1385.5900122070314" />
+              <mxPoint x="4786.94" y="1857.09" />
+            </Array>
+            <mxPoint x="4554.62" y="1179.1600122070313" as="sourcePoint" />
+            <mxPoint x="4739.62" y="1901.5800122070314" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-89" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Informācijas pieprasījums" vertex="1">
+          <mxGeometry height="20" width="203" x="2434.34" y="1352.7900122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-90" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Statistika un noteikumi" vertex="1">
+          <mxGeometry height="17" width="183" x="2360" y="1460.0000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-91" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Reģistrācijas dati" vertex="1">
+          <mxGeometry height="20" width="139" x="3006.7799999999997" y="1310.0000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-92" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Autorizācijas rezultāts" vertex="1">
+          <mxGeometry height="20" width="176" x="3060" y="1250.0000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-93" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Profila un ID dati" vertex="1">
+          <mxGeometry height="17" width="135" x="2708.74" y="1195.9500122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-94" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Verifikācijas statuss" vertex="1">
+          <mxGeometry height="20" width="158" x="2960" y="1800.0000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-95" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="MBTI testa atbildes" vertex="1">
+          <mxGeometry height="17" width="154" x="3904.84" y="1026.1700122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-96" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Saderības rezultāti" vertex="1">
+          <mxGeometry height="17" width="151" x="3973.69" y="1076.1200122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-97" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Plūsmas pieprasījums" vertex="1">
+          <mxGeometry height="20" width="173" x="2419.96" y="2035.3000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-98" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Ieraksti un kopīgošana" vertex="1">
+          <mxGeometry height="21" width="179" x="2770.33" y="1903.1300122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-99" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Publikācijas un reakcijas" vertex="1">
+          <mxGeometry height="20" width="193" x="2410.7799999999997" y="2131.5000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-100" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Nosūtītās čata ziņas" vertex="1">
+          <mxGeometry height="21" width="161" x="3880" y="1860.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-101" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Saņemtās čata ziņas" vertex="1">
+          <mxGeometry height="21" width="166" x="3892.62" y="1917.1300122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-102" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Čata pieprasījumi" vertex="1">
+          <mxGeometry height="23" width="142" x="4107.68" y="1968.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-103" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Kartes pieprasījums" vertex="1">
+          <mxGeometry height="20" width="159" x="4091.14" y="2520.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-104" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Kartes un publiskie stāsti" vertex="1">
+          <mxGeometry height="20" width="199" x="4080" y="2620.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-105" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Tikšanās un grupas" vertex="1">
+          <mxGeometry height="21" width="156" x="2260" y="3110.000012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-106" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Dalības statuss" vertex="1">
+          <mxGeometry height="17" width="124" x="2480" y="3070.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-107" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Pārkāpuma ziņojums" vertex="1">
+          <mxGeometry height="20" width="167" x="3873.48" y="2200.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-108" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Ziņojuma statuss" vertex="1">
+          <mxGeometry height="20" width="139" x="3528.96" y="2290.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-109" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Moderācijas komandas" vertex="1">
+          <mxGeometry height="20" width="182" x="3825" y="3170.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-110" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Ziņojumi un rezultāti" vertex="1">
+          <mxGeometry height="27.11" width="137" x="3538.96" y="2592.8900000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-111" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Pārvaldības komandas" vertex="1">
+          <mxGeometry height="17" width="179" x="3825" y="3114.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-112" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Moderācijas dati" vertex="1">
+          <mxGeometry height="20" width="133" x="3538.96" y="2890.5600122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-113" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Kontu pārvaldība" vertex="1">
+          <mxGeometry height="20" width="137" x="3019.52" y="3208.7300122070315" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-114" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Darbību žurnāls" vertex="1">
+          <mxGeometry height="18" width="129" x="3137.26" y="3319.090012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-115" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Autentifikācijas rezultāts un lietotāja dati" vertex="1">
+          <mxGeometry height="20" width="184" x="2576.9199999999996" y="1036.54" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-116" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Autentifikācijas pieprasījums" vertex="1">
+          <mxGeometry height="21" width="200" x="2653.74" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-117" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Verifikācijas pieprasījums" vertex="1">
+          <mxGeometry height="20" width="200" x="3222.74" y="1000.0000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-118" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Verifikācijas rezultāts" vertex="1">
+          <mxGeometry height="20" width="170" x="3320" y="1056.5400122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-119" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Push paziņojumu dati" vertex="1">
+          <mxGeometry height="20" width="171" x="4986.77" y="1784.7500122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-120" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Koordinātu pieprasījums" vertex="1">
+          <mxGeometry height="20" width="192" x="4930.73" y="2408.5600122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-121" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Kartes attēlošanas dati" vertex="1">
+          <mxGeometry height="18" width="183" x="4762.4" y="2594.570012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-122" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Informācijas pieprasījums" vertex="1">
+          <mxGeometry height="20" width="203" x="1740" y="1090.0000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-123" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Statistika, noteikumi" vertex="1">
+          <mxGeometry height="19" width="164" x="1989.9999999999998" y="1130.0000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-124" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Profila izmaiņas" vertex="1">
+          <mxGeometry height="20" width="128" x="2879.94" y="809.4900122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-125" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Profila un&#xa;lomas dati" vertex="1">
+          <mxGeometry height="30" width="88" x="3120" y="850.0000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-126" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Interešu un valodu dati" vertex="1">
+          <mxGeometry height="18" width="184" x="3575.1" y="767.9000122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-127" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Lietotāju statistikas dati" vertex="1">
+          <mxGeometry height="20" width="190" x="2653.74" y="789.4900122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-128" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="MBTI rezultāti" vertex="1">
+          <mxGeometry height="17" width="113" x="4522.58" y="815.5300122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-129" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Saderības dati" vertex="1">
+          <mxGeometry height="17" width="118" x="4322.38" y="890.0000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-130" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Jauni publikāciju dati" vertex="1">
+          <mxGeometry height="20" width="167" x="1520" y="2050.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-131" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Ieraksti un komentāri" vertex="1">
+          <mxGeometry height="17" width="170" x="1770" y="2290.000012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-132" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Ziņas saglabāšanai" vertex="1">
+          <mxGeometry height="21" width="154" x="4814.51" y="1991.0000122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-133" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Sarunu vēsture" vertex="1">
+          <mxGeometry height="17" width="125" x="4840" y="1921.1300122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-134" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Publisko stāstu dati" vertex="1">
+          <mxGeometry height="17" width="156" x="4714.49" y="2707.240012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-135" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Saglabātās lokācijas un stāsti" vertex="1">
+          <mxGeometry height="20" width="232" x="4969.92" y="2658.4500122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-136" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Jauni notikumi" vertex="1">
+          <mxGeometry height="20" width="118" x="1982.18" y="3284.690012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-137" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Tikšanās un grupas" vertex="1">
+          <mxGeometry height="21" width="156" x="1620" y="3150.000012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-138" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Moderācijas ieraksti" vertex="1">
+          <mxGeometry height="20" width="160" x="4700" y="3200.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-139" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Pārkāpumu ziņojumi" vertex="1">
+          <mxGeometry height="20" width="163" x="4710" y="3270.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-140" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Virslietotāju darbības" vertex="1">
+          <mxGeometry height="20" width="169" x="2760.0099999999998" y="3803.1400122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-141" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Konti un darbību žurnāls" vertex="1">
+          <mxGeometry height="18" width="193" x="3180" y="3770.240012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-142" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Saturs pārbaudei" vertex="1">
+          <mxGeometry height="20" width="139" x="2639.55" y="3348.590012207031" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-143" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Notikumi kartē" vertex="1">
+          <mxGeometry height="17" width="121" x="3320" y="3440.0000122070314" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-144" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Moderācijas darbību dati" vertex="1">
+          <mxGeometry height="20" width="196" x="4041.08" y="3803.1400122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-145" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Bloķēšanas un profila izmaiņas" vertex="1">
+          <mxGeometry height="21" width="242" x="3522.58" y="1284.6600122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-146" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Uzaicinājumu dati" vertex="1">
+          <mxGeometry height="20" width="145" x="3053.51" y="3271.7200122070312" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-147" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Reakciju paziņojumi" vertex="1">
+          <mxGeometry height="20" width="160" x="3285.16" y="1712.1800122070313" as="geometry" />
+        </mxCell>
+        <mxCell id="coGOsB3efatbvaU2ToNH-148" parent="1" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fillColor=none;strokeColor=none;fontFamily=Arial;fontSize=15;fontColor=#111111;" value="Saderības paziņojumi" vertex="1">
+          <mxGeometry height="20" width="171" x="4585.280000000001" y="1355.5900122070314" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
