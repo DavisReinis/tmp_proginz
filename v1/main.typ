@@ -1,4 +1,5 @@
 #import "@preview/solo-lu-df:2.1.0": *
+#import "db.typ": *
 //#import "template-fork/src/lib.typ": *
 #show table: set text(size: 10pt)
 #show table: set par(leading: 0.5em)
@@ -1457,13 +1458,35 @@ Apzīmējumi, kuri ir izmantoti @system-messages[tabulā]: SMSG - vispārējie s
 - Sistēmai jāreģistrē servera kļūdas un ārējo pakalpojumu darbības traucējumi, lai administratori varētu tos identificēt un novērst.
 - Google Maps, Firebase Cloud Messaging, Google/Apple Sign-In un Sumsub integrācijām jābūt veidotām tā, lai tās varētu atjaunināt, neietekmējot pārējo sistēmu.
 
-// = Programmas projektējuma apraksts
-// == Datu bāzes projektējums
-// Teksts abcabc
-// == Daļējs funkciju projektējums
-// Teksts abcabc
-// == Daļējs lietotāja saskrņu projektējums
-// Teksts abcabc
+= Programmatūras projektējuma apraksts
+
+== Datubāzes projektējums
+Datubāzes projektējums ir veidots pēc 2.1. nodaļā aprakstītā konceptuālā datu modeļa un paredzēts relāciju datubāzei (piemēram, PostgreSQL). Visas konceptuālā modeļa entitātes un attiecības ir saglabātas; datubāzē ir 21 tabula: 13 tabulas atbilst entitātēm un 8 starptabulas atbilst m:n attiecībām.
+
+=== Datubāzes loģiskais modelis
+Loģiskajā modelī katra entitāte ir kļuvusi par tabulu ar primāro atslēgu (PK), bet attiecības 1:n ir realizētas ar ārējām atslēgām (FK) bērna tabulā. Visas m:n attiecības ir aizstātas ar starptabulām: lietotajs_interese („norāda”), lietotajs_valoda („runā”), ieraksta_patik („atzīmē patīk”), kopigosana („kopīgo”), seko („seko”), blokesana („bloķē čatā”), tiksanas_dalibnieks („piedalās”) un grupas_dalibnieks („pievienojas”). Visiem nosaukumiem lietoti latīņu burti bez diakritiskajām zīmēm.
+
+#figure(
+  image("assets/db_logical.png", width: 100%),
+  caption: [Datubāzes loģiskais modelis],
+) <fig-db-logical>
+
+@fig-db-logical parāda tabulas ar kolonnām un atslēgu apzīmējumiem (PK – primārā atslēga, FK – ārējā atslēga; primārās atslēgas kolonnas ir pasvītrotas). Katra līnija savieno ārējās atslēgas kolonnu (FK) ar tās tabulas primārās atslēgas kolonnu (PK), uz kuru tā atsaucas; simbols „vārna” pie FK apzīmē „daudzi”, dubultā svītra pie PK – „viens”. Divas līnijas starp vienām un tām pašām tabulām nozīmē divas ārējās atslēgas (piemēram, saderības vērtētājs un vērtētais lietotājs).
+
+=== Datubāzes fiziskais modelis
+Fiziskajā modelī katrai kolonnai ir piešķirts datu tips. Primārās atslēgas ir veseli skaitļi (INTEGER), kuru vērtības datubāze ģenerē automātiski. Datumi un laiki glabājas kā TIMESTAMP vai DATE, atzīmes (loma, statuss, redzamība u.c.) – kā SMALLINT ar kodu atšifrējumu tabulu aprakstos (3.1.3).
+
+#figure(
+  image("assets/db_physical.png", width: 100%),
+  caption: [Datubāzes fiziskais modelis],
+) <fig-db-physical>
+
+@fig-db-physical parāda tās pašas tabulas, papildinot kolonnas ar datu tipiem. Atzīme NULL pie tipa norāda, ka kolonna pieļauj tukšu vērtību; kolonnām bez šīs atzīmes ir ierobežojums NOT NULL.
+
+=== Datubāzes tabulu apraksti
+Katras tabulas aprakstā (@dbt-lietotajs un turpmākajās tabulās) ir norādīts kolonnas nosaukums, datu tips (kopā ar uzskaitāmo vērtību atšifrējumu), apraksts, vai kolonna pieļauj NULL, un atslēgas veids (PK, FK vai PK, FK). Pirms katras tabulas norādīts, kuras funkcijas no 2.2.1 tabulas veic datu izveidi (C), nolasīšanu (R), labošanu (U) un dzēšanu (D); „nav paredzēts” nozīmē, ka šajā dokumentā nav funkcijas, kas veic attiecīgo darbību. Ja tabulas ārējā atslēga atsaucas uz citu tabulu, aprakstā norādīts, kas notiek, dzēšot atsauces ierakstu (ON DELETE CASCADE vai RESTRICT).
+
+#for t in db1 { db-table(t) }
 
 #set heading(numbering: none)
 #heading(level: 1, outlined: false)[Dokumentārā lapa]

@@ -1,0 +1,20 @@
+LVS68:
+  type: Web
+  title: LVS 68:1996 “Programmatūras prasību specifikācijas ceļvedis”
+  author: SIA „Latvijas standarts” (LVS)
+  date: 1996
+  url: {value: "https://www.lvs.lv/products/85", date: 2026-09-21}
+
+LVS72:
+  type: Web
+  title: LVS 72:1996 “Ieteicamā prakse programmatūras projektējuma aprakstīšanai”
+  author: SIA „Latvijas standarts” (LVS)
+  date: 1996
+  url: {value: "https://www.lvs.lv/products/89", date: 2026-09-21}
+
+GDPR:
+  type: Web
+  title: Eiropas Parlamenta un Padomes Regula (ES) 2016/679 par fizisku personu aizsardzību attiecībā uz personas datu apstrādi un šādu datu brīvu apriti (Vispārīgā datu aizsardzības regula)
+  author: Eiropas Savienība
+  date: 2016
+  url: https://eur-lex.europa.eu/eli/reg/2016/679/oj
