@@ -1,1 +1,23 @@
+# Lokāla prezentācija
 presentation_section3_v1/
+
+# Kompilētie un eksportētie faili
+*.pdf
+*.pptx
+*.docx
+
+# draw.io pagaidu un rezerves faili
+*.drawio.bkp
+*.drawio.dtmp
+.$*.bkp
+.$*.dtmp
+*.bkp
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistēmas un redaktoru faili
+.DS_Store
+Thumbs.db
+desktop.ini

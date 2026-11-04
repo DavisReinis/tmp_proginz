@@ -13,7 +13,7 @@ Sociālā lietotne: reģistrēti lietotāji, MBTI testi un saderība, intereses 
 
 ## Kompilēšana
 
-`typst compile main.typ` attiecīgajā mapē (`v1/` vai `v2/`). Pēc tam atjauniniet `main.pdf`, jo tas tiek glabāts repozitorijā.
+`typst compile main.typ` attiecīgajā mapē (`v1/` vai `v2/`). PDF faili netiek glabāti repozitorijā (`.gitignore`).
 
 ## Diagrammas (draw.io)
 
